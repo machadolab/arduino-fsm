@@ -1,4 +1,4 @@
-#include "Fsm.h"
+#include "fsm.h"
 
 // State machine variables
 #define FLIP_LIGHT_SWITCH 1

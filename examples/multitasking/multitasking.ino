@@ -2,7 +2,7 @@
 // multitasking on an arduino. Two LED's are turned on and off at irregular
 // intervals; the finite state machines take care of the transitions.
 
-#include "Fsm.h"
+#include "fsm.h"
 
 #define LED1_PIN 10
 #define LED2_PIN 11
