@@ -13,7 +13,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with arduino-fsm.  If not, see <http://www.gnu.org/licenses/>.
 
-#include "Fsm.h"
+#include "fsm.h"
 
 
 State::State(void (*on_enter)(), void (*on_state)(), void (*on_exit)())
